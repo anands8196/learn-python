@@ -7,6 +7,7 @@ INTEGER/FLOAT
 STRING
 BOOL
 
+# useful 
 1. print()
 1. input()
 1. int()
