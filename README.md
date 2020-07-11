@@ -9,4 +9,7 @@ BOOL
 
 # print()
 # input()
+# int()
+# float()
+# bool()
 
