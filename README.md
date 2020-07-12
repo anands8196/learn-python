@@ -14,6 +14,11 @@ BOOL
 1. float()
 1. bool()
 1. type()
+1. set
+1. list
+1. tuple
+1. dict
+1. def
 1. ""
 1. ''
 1. ''' '''   for multi line string 
